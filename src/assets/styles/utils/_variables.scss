@@ -1,0 +1,12 @@
+$main-font: 'Brown', sans-serif;
+$font-path: '../fonts';
+$fa-font-path: $font-path;
+
+$grid-gutter: 30px;
+$grid-columns: 12;
+$breakpoints: (
+  'sm': 576px,
+  'md': 768px,
+  'lg': 992px,
+  'xl': 1200px,
+);
